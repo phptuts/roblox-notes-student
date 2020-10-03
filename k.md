@@ -67,6 +67,14 @@ function OnTouchOpenDoor()
 end
 ```
 
+6. Other Examples
+
+```lua
+local sky = "blue"
+local age = 12
+local speed = 30
+```
+
 ## How to call a function
 
 1. Write the functions name
